@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\hopu_\\source\\repos\\bibliotecaapi\\bibliotecaapi\\migrations\\20250609001311_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\migrations\\20250609001311_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\hopu_\\source\\repos\\bibliotecaapi\\bibliotecaapi\\migrations\\bibliotecacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\migrations\\bibliotecacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\hopu_\\source\\repos\\bibliotecaapi\\bibliotecaapi\\migrations\\20250609001311_inicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\migrations\\20250609001311_inicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\hopu_\\source\\repos\\bibliotecaapi\\bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\hopu_\\source\\repos\\bibliotecaapi\\bibliotecaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\hopu_\\source\\repos\\bibliotecaapi\\bibliotecaapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\hopu_\\source\\repos\\bibliotecaapi\\bibliotecaapi\\models\\prestamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\models\\prestamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\hopu_\\source\\repos\\bibliotecaapi\\bibliotecaapi\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\hopu_\\source\\repos\\bibliotecaapi\\bibliotecaapi\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\hopu_\\source\\repos\\bibliotecaapi\\bibliotecaapi\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\hopu_\\source\\repos\\bibliotecaapi\\bibliotecaapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\hopu_\\source\\repos\\bibliotecaapi\\bibliotecaapi\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|c:\\users\\hopu_\\source\\repos\\bibliotecaapi\\bibliotecaapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C602C3-EC06-4911-B271-556CAD4A53D1}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BibliotecaContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Migrations\\BibliotecaContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Migrations\\BibliotecaContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Migrations\\BibliotecaContextModelSnapshot.cs",
+              "RelativeToolTip": "BibliotecaApi\\Migrations\\BibliotecaContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:20:32.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250609001311_Inicial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Migrations\\20250609001311_Inicial.Designer.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Migrations\\20250609001311_Inicial.Designer.cs",
+              "ToolTip": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Migrations\\20250609001311_Inicial.Designer.cs",
+              "RelativeToolTip": "BibliotecaApi\\Migrations\\20250609001311_Inicial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:20:32.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrestamoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Models\\PrestamoDTO.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Models\\PrestamoDTO.cs",
+              "ToolTip": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Models\\PrestamoDTO.cs",
+              "RelativeToolTip": "BibliotecaApi\\Models\\PrestamoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:01:16.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Models\\Prestamo.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Models\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Models\\Prestamo.cs",
+              "RelativeToolTip": "BibliotecaApi\\Models\\Prestamo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:10:30.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Models\\Libro.cs",
+              "RelativeToolTip": "BibliotecaApi\\Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:09:44.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Models\\Usuario.cs",
+              "RelativeToolTip": "BibliotecaApi\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:10:10.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250609001311_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Migrations\\20250609001311_Inicial.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Migrations\\20250609001311_Inicial.cs",
+              "ToolTip": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Migrations\\20250609001311_Inicial.cs",
+              "RelativeToolTip": "BibliotecaApi\\Migrations\\20250609001311_Inicial.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:13:11.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BibliotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Data\\BibliotecaContext.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Data\\BibliotecaContext.cs",
+              "ToolTip": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Data\\BibliotecaContext.cs*",
+              "RelativeToolTip": "BibliotecaApi\\Data\\BibliotecaContext.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:11:32.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BibliotecaApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T00:29:22.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Program.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Program.cs",
+              "ToolTip": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Program.cs",
+              "RelativeToolTip": "BibliotecaApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:06:17.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "BibliotecaApi\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:19:15.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PrestamosController.cs",
+              "DocumentMoniker": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Controllers\\PrestamosController.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Controllers\\PrestamosController.cs",
+              "ToolTip": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Controllers\\PrestamosController.cs",
+              "RelativeToolTip": "BibliotecaApi\\Controllers\\PrestamosController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwBIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:15:30.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\hopu_\\source\\repos\\BibliotecaApi\\BibliotecaApi\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "BibliotecaApi\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:15:32.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
