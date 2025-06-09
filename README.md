@@ -13,7 +13,7 @@
 Esta API RESTful fue desarrollada en ASP.NET Core utilizando Entity Framework Core con SQLite. El sistema permite gestionar libros, usuarios y préstamos. Las pruebas fueron realizadas desde Swagger, cubriendo casos exitosos y errores controlados.
 
 ## Pruebas realizadas
-# Pruebas realizadas en Swagger para verificar funcionalidad o validación del endpoint.
+#### Pruebas realizadas en Swagger para verificar funcionalidad o validación del endpoint.
 ### 1. Crear Libro - Éxito
 ![IMG 1](https://github.com/user-attachments/assets/1bc6d730-c364-41a9-a4a2-feb974b18b8c)
 
