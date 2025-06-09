@@ -1,7 +1,6 @@
 # Evaluación 2 - API RESTful ASP.NET Core
 
 **Integrantes:** André Piffaut, Jesús Vidal, Oscar Zuñiga
-
 **Docente:** Maximiliano Moraga
 **Asignatura:** .NET  
 **Fecha:** 08-06-2025
